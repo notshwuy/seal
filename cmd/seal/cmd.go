@@ -16,8 +16,8 @@ func main() {
 
 	environment := map[string]string{}
 
-	loadEnvironmentFile := true
-	restart := true
+	loadEnvironmentFile := false
+	restart := false
 
 	seal := &cobra.Command{
 		Use:   "seal",

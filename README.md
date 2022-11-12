@@ -1,6 +1,6 @@
-<img width="80px" src="https://www.emojiall.com/images/240/microsoft/1f9ad.png" align="right">
+<img width="100px" src="https://www.emojiall.com/images/240/microsoft/1f9ad.png" align="left">
 
-<h3>Seal</h3>
+### Seal
 
 A tool to run commands with monitoring features.
 

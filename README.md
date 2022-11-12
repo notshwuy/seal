@@ -23,7 +23,9 @@ RUN seal run -- node src/index.js
 
 # Run your script with "Auto Restart" and "Load .env"
 RUN seal run -r -e -- node src/index.js
-#                  ^^ your command execution should be after --
+#            ^^ ^^ ^^ enter your command after the double dash (--)
+# -r: auto restarts when process goes down, same as --auto-restart
+# -e: loads .env into process, same as --load-env
 ```
 
 ##### License

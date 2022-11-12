@@ -8,7 +8,7 @@ A tool to run commands with monitoring features.
 
 - **`seal run --load-env`** loads `.env` file.
 - **`seal run --auto-restart`** restarts the application when goes down.
-- **`seal run --output-logs`** outputs log files.
+- **`seal run --output-logs`** outputs log files. (*in development*)
 
 ##### Usage
 
